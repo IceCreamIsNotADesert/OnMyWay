@@ -1,0 +1,3 @@
+I couldn't find any apps for people affected by dementia to help themselves get home, so I created an app to help call and go home. 
+There are also lockscren widgets that display information like postal code, name, and phone number, in case the password is forgotten.
+It's still not perfect. It does work, but I think I can make some improvements...
